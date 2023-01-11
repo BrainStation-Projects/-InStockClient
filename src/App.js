@@ -12,7 +12,7 @@ import WarehouseEdit from "./pages/WarehouseEdit/WarehouseEdit";
 import "./App.scss";
 
 function App() {
-  const API_URL = "https://instock-heroku-test.herokuapp.com";
+  const API_URL = "https://in-stock-shared.herokuapp.com";
 
   return (
     <BrowserRouter>
